@@ -1,5 +1,4 @@
 USTH Advanced Programming with Python 2026
 ==================================
-
-* Your name here
-* Your ID here
+Đinh Thị Phương Linh
+2410540
